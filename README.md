@@ -8,6 +8,9 @@ House Price Prediction (India) using Regression Models
 This project demonstrates the application of data cleaning, exploratory data analysis (EDA), feature engineering, and regression modeling on a housing dataset from India. It aims to predict property prices based on various housing features like area, bedrooms, bathrooms, grade, and more.
 
 
+
+
+
 **Objective**
 
 Predict house prices using linear regression based on relevant housing features.
@@ -25,6 +28,9 @@ Feature engineering
 Evaluate model performance using MSE and R² Score.
 
 
+
+
+
 **Tools and Technologies**
 
 Python
@@ -36,6 +42,10 @@ Matplotlib, Seaborn
 Scikit-learn
 
 Google Colab (for development and execution)
+
+
+
+
 
 
 **Key Features Implemented**
@@ -53,6 +63,8 @@ Train-test splitting
 Regression modeling and predictions
 
 Comparative model on diabetes dataset
+
+
 
 
 
